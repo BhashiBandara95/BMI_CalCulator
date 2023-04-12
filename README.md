@@ -1,2 +1,3 @@
 # BMI_Web_App
-Calculate the BMI Value end Get the Health Condition
+#This is Web Application for Calculating the BMI Value and Get the Health Condition.
+#Use HTML, CSS and JavaScript Knowledge
